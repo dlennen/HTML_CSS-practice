@@ -1,0 +1,34 @@
+* {
+    margin: 0px;
+}
+
+.mainbackground {
+    background-color: dodgerblue;
+}
+
+.signUpBox {
+    margin: auto;
+    width: 25%;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    top: 75px;
+}
+
+.banner {
+    border-bottom: solid 3px dimgray;
+    background-color: white;
+    height: 75px; 
+}
+
+.buttonSpace {
+    position: absolute;
+    right: 0px;
+}
+
+.button {
+    margin: 10px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 15px;
+}
